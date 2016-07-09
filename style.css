@@ -1,0 +1,60 @@
+#header{
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	background-image: url("images/background_header.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+	color: rgb(25, 25, 25);
+	display:block;
+	filter:saturate(-500);
+}
+
+.button{
+	transition: all 3s ease 2s;
+}
+
+#header h1{
+	font-family: 'Montserrat', sans-serif;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 35px;
+	}
+
+#header p{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 20px;
+	}
+	
+#first{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: rgb(247, 247, 247);
+}
+
+.footer_center{
+	padding-top: 15px;
+	padding-bottom: 10px;
+	background-color: rgb(253, 253, 253);
+	color: rgb(50, 50, 50);
+}
+
+.footer_edge{
+	background-color: rgb(247, 247, 247);
+}
+
+.h2{
+	text-align: center;
+}
+
+.wat_but{
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	padding-top:45px;
+}
+
+.wat_table_session{
+        padding-top: 45px;
+	text-align: left;
+}
